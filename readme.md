@@ -12,6 +12,8 @@ curl -O https://raw.githubusercontent.com/LIUBANGJIAN/Transmission-speed-test-sc
 wget --no-check-certificate https://raw.githubusercontent.com/LIUBANGJIAN/Transmission-speed-test-script-under-encryption-algorithm/main/ss_test.sh && chmod +x ./ss_test.sh && ./ss_test.sh
 ```
 
+
+
 高性能软路由 && openwrt && ss
 可选命令1：
 ```Bash
