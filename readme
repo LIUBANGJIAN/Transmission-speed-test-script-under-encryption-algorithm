@@ -5,6 +5,7 @@
 可选命令1：
 ```
 curl -O https://raw.githubusercontent.com/LIUBANGJIAN/Transmission-speed-test-script-under-encryption-algorithm/main/ss_test.sh && chmod +x ./ss_test.sh && ./ss_test.sh
+
 ```
 
 可选命令2：
