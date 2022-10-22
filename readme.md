@@ -8,22 +8,29 @@ curl -O https://raw.githubusercontent.com/LIUBANGJIAN/Transmission-speed-test-sc
 ```
 
 可选命令2：
+```Bash
 wget --no-check-certificate https://raw.githubusercontent.com/LIUBANGJIAN/Transmission-speed-test-script-under-encryption-algorithm/main/ss_test.sh && chmod +x ./ss_test.sh && ./ss_test.sh
+```
 
 高性能软路由 && openwrt && ss
 可选命令1：
+```Bash
 curl -O https://raw.githubusercontent.com/LIUBANGJIAN/Transmission-speed-test-script-under-encryption-algorithm/main/ss_test2.sh && chmod +x ./ss_test2.sh && ./ss_test2.sh
+```
 
 可选命令2：
+```Bash
 wget --no-check-certificate https://raw.githubusercontent.com/LIUBANGJIAN/Transmission-speed-test-script-under-encryption-algorithm/main/ss_test2.sh && chmod +x ./ss_test2.sh && ./ss_test2.sh
+```
 
 支持aes硬解路由 | arm64路由 && openwrt && ss_rust
 可选命令1：
+```Bash
 curl -O https://raw.githubusercontent.com/LIUBANGJIAN/Transmission-speed-test-script-under-encryption-algorithm/main/ss_rust_test.sh && chmod +x ./ss_rust_test.sh && ./ss_rust_test.sh
+```
 
 可选命令2：
-wget --no-check-certificate https://raw.githubusercontent.com/LIUBANGJIAN/Transmission-speed-test-script-under-encryption-algorithm/main/ss_rust_test.sh && chmod +x ./ss_rust_test.sh && ./ss_rust_test.sh
-
 ```Bash
-echo "hello GitHub" #Bash
+wget --no-check-certificate https://raw.githubusercontent.com/LIUBANGJIAN/Transmission-speed-test-script-under-encryption-algorithm/main/ss_rust_test.sh && chmod +x ./ss_rust_test.sh && ./ss_rust_test.sh
 ```
+
